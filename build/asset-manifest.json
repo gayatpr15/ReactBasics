@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db3e6f0d.css",
+    "main.js": "/static/js/main.e607f043.js",
+    "static/js/453.eceb90f9.chunk.js": "/static/js/453.eceb90f9.chunk.js",
+    "static/media/Scartoon-nRmKJ.woff": "/static/media/Scartoon-nRmKJ.406314e84388b124fa2e.woff",
+    "index.html": "/index.html",
+    "main.db3e6f0d.css.map": "/static/css/main.db3e6f0d.css.map",
+    "main.e607f043.js.map": "/static/js/main.e607f043.js.map",
+    "453.eceb90f9.chunk.js.map": "/static/js/453.eceb90f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3e6f0d.css",
+    "static/js/main.e607f043.js"
+  ]
+}
