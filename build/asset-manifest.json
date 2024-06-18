@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.db3e6f0d.css",
-    "main.js": "/static/js/main.7d12f15e.js",
-    "static/js/453.eceb90f9.chunk.js": "/static/js/453.eceb90f9.chunk.js",
-    "static/media/Scartoon-nRmKJ.woff": "/static/media/Scartoon-nRmKJ.406314e84388b124fa2e.woff",
-    "index.html": "/index.html",
-    "main.db3e6f0d.css.map": "/static/css/main.db3e6f0d.css.map",
-    "main.7d12f15e.js.map": "/static/js/main.7d12f15e.js.map",
-    "453.eceb90f9.chunk.js.map": "/static/js/453.eceb90f9.chunk.js.map"
+    "main.css": "/ReactBasics/static/css/main.f94df6f2.css",
+    "main.js": "/ReactBasics/static/js/main.c7bad618.js",
+    "static/js/453.eceb90f9.chunk.js": "/ReactBasics/static/js/453.eceb90f9.chunk.js",
+    "static/media/Scartoon-nRmKJ.woff": "/ReactBasics/static/media/Scartoon-nRmKJ.406314e84388b124fa2e.woff",
+    "index.html": "/ReactBasics/index.html",
+    "main.f94df6f2.css.map": "/ReactBasics/static/css/main.f94df6f2.css.map",
+    "main.c7bad618.js.map": "/ReactBasics/static/js/main.c7bad618.js.map",
+    "453.eceb90f9.chunk.js.map": "/ReactBasics/static/js/453.eceb90f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db3e6f0d.css",
-    "static/js/main.7d12f15e.js"
+    "static/css/main.f94df6f2.css",
+    "static/js/main.c7bad618.js"
   ]
 }
